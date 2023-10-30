@@ -2,11 +2,6 @@
   text-align: center;
 }
 
-#drum-machine {
-  display: flex;
-  
-}
-
 .drum-pad {
   background-color: lightblue;
   width: 50px;
